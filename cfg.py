@@ -1,0 +1,10 @@
+HOST = "irc.twitch.tv"
+PORT = 6667
+WHISPER_HOST = "irc.chat.twitch.tv"
+NICK = "cpu57"
+OAUTH = "oauth:"
+CHANNEL = "#"
+WHISPER_CHANNEL = "#_kaloncpu57_1461301730196"
+LASTFM_KEY = ""
+LASTFM_NAME = ""
+ADMIN = ""
